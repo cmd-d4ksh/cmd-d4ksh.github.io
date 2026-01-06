@@ -3,7 +3,7 @@
 This repository hosts my personal portfolio website, built using **HTML, CSS, and JavaScript** and deployed with **GitHub Pages**.
 
 🌐 **Live Website:**  
-https://dakshshah.github.io
+https://cmd-d4ksh.github.io/
 
 ---
 
